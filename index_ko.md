@@ -18,13 +18,13 @@
 
 [영어 원문 및 연서명자 명단][https://rms-open-letter.github.io]
 
-<a name="tr1">tr1</a>: 리차드 스톨만, 이라는 표기가 익숙하지만 [한국어 위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%B2%98%EB%93%9C_%EC%8A%A4%ED%86%A8%EB%A8%BC)의 표기를 따랐습니다.
-<a name="tr2">tr2</a>: Free Software.
-<a name="tr3">tr3</a>: misogynist 의 misogyny.
-<a name="tr4">tr4</a>: ableist 의 ableism.
-<a name="tr5">tr5</a>: transphobic.
-<a name="tr6">tr6</a>: Digital Rights. [정보인권연구소](https://idr.jinbo.net/)의 영문 표기를 참고하였습니다.
-<a name="tr7">tr7</a>: digital autonomy.
-<a name="tr8">tr8</a>: software freedom.
-<a name="tr9">tr9</a>: tech ethics.
-<a name="tr10">tr10</a>: contributors. 공헌자, 로도 종종 번역됩니다.
+* <a name="tr1">tr1</a>: 리차드 스톨만, 이라는 표기가 익숙하지만 [한국어 위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%B2%98%EB%93%9C_%EC%8A%A4%ED%86%A8%EB%A8%BC)의 표기를 따랐습니다.
+* <a name="tr2">tr2</a>: Free Software.
+* <a name="tr3">tr3</a>: misogynist 의 misogyny.
+* <a name="tr4">tr4</a>: ableist 의 ableism.
+* <a name="tr5">tr5</a>: transphobic.
+* <a name="tr6">tr6</a>: Digital Rights. [정보인권연구소](https://idr.jinbo.net/)의 영문 표기를 참고하였습니다.
+* <a name="tr7">tr7</a>: digital autonomy.
+* <a name="tr8">tr8</a>: software freedom.
+* <a name="tr9">tr9</a>: tech ethics.
+* <a name="tr10">tr10</a>: contributors. 공헌자, 로도 종종 번역됩니다.
