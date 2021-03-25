@@ -16,7 +16,7 @@
 
 연서명에 참여하시고자 하는 분은 digitalautonomy at riseup.net 으로 이메일을 보내 주시거나, [pull request를 제출해 주시기 바랍니다](https://github.com/rms-open-letter/rms-open-letter.github.io/pulls).
 
-[영어 원문 및 연서명자 명단][https://rms-open-letter.github.io]
+[영어 원문 및 연서명자 명단](https://rms-open-letter.github.io)
 
 * <a name="tr1">tr1</a>: 리차드 스톨만, 이라는 표기가 익숙하지만 [한국어 위키백과](https://ko.wikipedia.org/wiki/%EB%A6%AC%EC%B2%98%EB%93%9C_%EC%8A%A4%ED%86%A8%EB%A8%BC)의 표기를 따랐습니다.
 * <a name="tr2">tr2</a>: Free Software.
